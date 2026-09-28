@@ -148,4 +148,5 @@ SupportLens AI implements a 3-pillar evaluation framework:
 
 ---
 
-*Developed for the Hiver SDE Intern / AI Engineering Take-Home Assignment.*
+*Developed for the Hiver SDE Intern / AI Engineering Take-Home Assignment.*  
+*Release v1.0.0 — Built by Dharshini* 🚀
