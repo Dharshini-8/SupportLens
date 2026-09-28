@@ -1,3 +1,8 @@
+/**
+ * SupportLens AI Core Type Definitions
+ * Designed for Hiver SDE Intern / AI Engineering Evaluation Platform
+ */
+
 export type RiskLevel = 'LOW' | 'MEDIUM' | 'HIGH' | 'CRITICAL';
 export type DecisionType = 'AUTO_HANDLE' | 'ESCALATE';
 export type ConversationStatus = 'open' | 'approved' | 'escalated' | 'edited' | 'resolved';
