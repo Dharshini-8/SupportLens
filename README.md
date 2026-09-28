@@ -1,12 +1,14 @@
 # SupportLens AI 🛡️
 > **AI Customer Support Intelligence & Evaluation Platform**  
-> *Hiver SDE / AI Engineering Take-Home Assignment Implementation*
+> *Hiver SDE / AI Engineering Take-Home Assignment Implementation*  
+> **Repository**: [https://github.com/Dharshini-8/SupportLens](https://github.com/Dharshini-8/SupportLens)
 
 ![SupportLens AI Platform](https://img.shields.io/badge/Status-Production--Ready-emerald)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![React](https://img.shields.io/badge/React-19.0-cyan)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38bdf8)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-gray)
+![Backend](https://img.shields.io/badge/Backend-Express.js-gray)
+![Developer](https://img.shields.io/badge/Developer-Dharshini-purple)
 
 ---
 
