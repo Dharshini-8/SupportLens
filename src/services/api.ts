@@ -1,3 +1,8 @@
+/**
+ * SupportLens AI Service Layer
+ * Supports seamless switching between real Express REST APIs and deterministic local simulation engine.
+ */
+
 import { 
   Conversation, 
   EvaluationMetrics, 
