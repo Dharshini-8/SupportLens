@@ -1,7 +1,9 @@
 {
-  "name": "hiver",
+  "name": "supportlens-ai",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "AI Customer Support Intelligence & Evaluation Platform",
+  "author": "Dharshini <https://github.com/Dharshini-8>",
   "type": "module",
   "scripts": {
     "dev": "vite",
